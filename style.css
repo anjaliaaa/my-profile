@@ -1,0 +1,150 @@
+h1 {
+  color: black;
+	font-size: 50px;
+	font-family: cursive;
+}
+h2 {
+  color: blue;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+
+h5 {
+  color: blue;
+	font-size: 20px;
+	font-family: Helvetica;
+	}
+p {
+  color: black;
+	font-size: 10px;
+	font-family: Helvetica;
+}
+
+body {
+  color: rgb(10, 10, 10);
+	background-color: #DFDDDF;  
+	padding: 0;
+	background-size: cover;
+	font-family: Courier;
+}
+	.card-white{
+		width: 450px;
+		background: rgba (0,0,0,0.4);
+		pardding: 40px;
+		text-align: center;
+		margin: auto;
+		margin-top: 5%;
+		color: white;
+		font-family: 'century gothic', sans-serif;
+
+	}
+.box-img{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+.boz h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.card-white h5{
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+
+}
+
+
+body {
+  font-family: Times, serif;
+	font-family: Arial, sans-serif;
+	font-family: Courier, monospace;
+}
+
+body {
+  font-size: 30px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+}
+body {
+  color: rgb(30, 30, 30);
+	text-align: justify;
+	text-decoration: none;
+}
+body {
+  font-weight: lighter;
+	font-weight: normal;
+	font-weight: bold;
+	font-weight: bolder;
+}
+a {
+  color: yellow;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: green;
+  text-decoration: none;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+.box li{
+	display: inline-block;
+	margin: 6px;
+	list-style: none;
+
+}
+.box li a {
+	color: white;
+	text-decoration: none;
+	font-size: 60px;
+	transition: all ease-in-out 250;
+
+}
+.box li a :hover{
+	color: #b9b9b9;
+}
+
+.btn-blue {
+	background-color: #6B72E1;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.btn-blue:hover{
+	background-color: black;
+	color: white;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px
+
+}
+.list-inline i {
+	font-size: 50px;
+	color: black;
+}
+}
+.list-inline i:hover {
+	color: black;
+}
+
+#introduction p {
+ margin-bottom: 40px;
+}
+#profile {width: 170px;border:10px rgba(178,58,72,0.7);}
+
+div {
+	background: rgb(230,230,250);
+}
+div{background: white;border:40px solid black; margin:12px;}
